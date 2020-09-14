@@ -21,7 +21,7 @@
     Contact us for any need of customisation or chart of account .
     """,
 
-    'author': 'Itech Resources',
+    'author': 'Itech Resources, Steigend IT Solutions',
     'website': 'http://itechresources.net/',
     'category': 'Accounting &amp; Finance',
     'version': '1.2.1',
